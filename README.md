@@ -10,8 +10,10 @@ Website with links for some of the best recipes (that I could find :). This is a
 ### Image Credits
 
 * Feijoada: Photo by Helder Ribeiro on [flickr](https://www.flickr.com/photos/obvio171/3376508950)
+* Chicken Katsu: Photo by jpellgen (@1105_jp) on [flickr](https://www.flickr.com/photos/jpellgen/48560603062)
 
 
 ### Recipe Credits
 
 * [Feijoada recipe](https://www.allrecipes.com/recipe/139208/feijoada-brazilian-black-bean-stew/)
+* [Chicken katsu recipe](https://www.allrecipes.com/recipe/72068/chicken-katsu/)

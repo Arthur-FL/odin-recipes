@@ -4,6 +4,13 @@ Website with links for some of the best recipes (that I could find :). This is a
 
 ## Description
 
+The project consists of a simple website put together through a handful of html documents linked together.
+The goal is to share a few recipes of my liking in a way that allows for a beginner-level html practice.
+
+## Competences
+
+Throughout the project, skills such as image formatting, paragraph and heading hierarchical organization,
+list creation, html file integration and linking were put in display.
 
 ## Credits
 

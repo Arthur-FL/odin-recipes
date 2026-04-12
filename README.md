@@ -18,7 +18,7 @@ list creation, html file integration and linking were put in display.
 
 * Feijoada: Photo by Helder Ribeiro on [flickr](https://www.flickr.com/photos/obvio171/3376508950)
 * Chicken Katsu: Photo by jpellgen (@1105_jp) on [flickr](https://www.flickr.com/photos/jpellgen/48560603062)
-* Shrimp Alfredo: Photo by Jon Sullivan on [pixnio](https://pixnio.com/food-and-drink/shrimp-fettucini-with-three-cheese-alfredo)
+* Shrimp Alfredo: Photo by hermitsmoores on [flickr](https://www.flickr.com/photos/hermitsmoores/4352308195/)
 
 
 ### Recipe Credits

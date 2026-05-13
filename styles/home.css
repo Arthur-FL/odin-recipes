@@ -1,0 +1,44 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body{
+    max-width: 600px;
+    margin: 0 auto;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #fce883;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.recipe-list{
+    font-size: 20px;
+    border: 10px solid black;
+    background-color: white;
+    margin-top: 130px;
+}
+
+.feijao{
+    margin-bottom: 60px;
+    padding-top: 30px;
+
+}
+
+.katsu{
+    margin-bottom: 60px;
+}
+
+.shrimp {
+    padding-bottom: 30px;
+}

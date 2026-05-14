@@ -1,0 +1,65 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fce883;
+}
+
+.katsu {
+    width: 512px;
+    height: auto;
+    margin-left: 340px;
+    border: 8px solid lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 120px;
+}
+
+.headt {
+    background-color: white;
+    border: 8px solid black;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.description {
+    width: 600px;
+    margin-left: -400px;
+    margin-top: -350px;
+    margin-bottom: 20px;
+}
+
+.ingredients {
+    margin-bottom: 20px;
+    width: 600px;
+    margin-left: -400px;
+}
+
+.serve {
+    margin-left: -400px;
+    width: 600px;
+}
+
+.steps {
+    margin-left: 340px;
+    width: 600px;
+    margin-top: -310px;
+}
+
+#navig {
+    text-align: center;
+    margin-top: 200px;
+}

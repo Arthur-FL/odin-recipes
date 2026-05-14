@@ -1,0 +1,59 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fce883;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.shrimpy {
+    width: 512px;
+    height: auto;
+    border: 8px solid lightblue;
+    margin-left: 340px;
+}
+
+.headt {
+    border: 8px solid black;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.description {
+    margin-left: -400px;
+    width: 600px;
+    margin-top: -350px;
+    margin-bottom: 40px;
+}
+
+.ingredients {
+    margin-left: -400px;
+    width: 600px;
+}
+
+.steps {
+    margin-left: 340px;
+    width: 600px;
+    margin-top: -240px;
+}
+
+#navig {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}

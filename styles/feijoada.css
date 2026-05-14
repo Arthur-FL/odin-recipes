@@ -24,8 +24,7 @@ h1 {
 .caldeirao {
     width: 512px;
     height: auto;
-    margin-left: 400px;
-    margin-bottom: 50px;
+    margin-left: 340px;
     border: 8px solid lightblue;
 }
 
@@ -39,9 +38,9 @@ h1 {
 }
 
 .steps {
-    width: 800px;
+    width: 600px;
     margin-left: 300px;
-    margin-top: -350px;
+    margin-top: -260px;
     background-color: white;
     border: 8px solid black;
     padding-left: 20px;
@@ -49,10 +48,10 @@ h1 {
 }
 
 .description {
-    margin-bottom: 180px;
+    margin-bottom: 20px;
     margin-left: -400px;
     width: 600px;
-    margin-top: -350px;
+    margin-top: -310px;
     background-color: white;
     border: 8px solid black;
     padding-left: 20px;
